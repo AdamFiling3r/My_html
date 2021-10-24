@@ -45,10 +45,15 @@ color:#DD3922;
 }
 table{
 border:3px solid black;
-border-radius:5px;
+border-radius:10px;
 background-color:#69DD22;
 width:300px;
 margin:10px;
+}
+.menu{
+border:none;
+background-color:white;
+width:200px;
 }
 th, td{
 border:2px solid black;
